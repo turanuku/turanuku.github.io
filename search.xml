@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>测试</title>
-      <link href="/2024/12/26/%E6%B5%8B%E8%AF%95/"/>
-      <url>/2024/12/26/%E6%B5%8B%E8%AF%95/</url>
-      
-        <content type="html"><![CDATA[<div class="video-container"><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113708135219914&bvid=BV15ekRYtEBL&cid=27511226679&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>FCEUX模拟器安装运行FC红白机游戏</title>
       <link href="/2024/12/26/FCEUX%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%AE%89%E8%A3%85%E8%BF%90%E8%A1%8CFC%E7%BA%A2%E7%99%BD%E6%9C%BA%E6%B8%B8%E6%88%8F/"/>
       <url>/2024/12/26/FCEUX%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%AE%89%E8%A3%85%E8%BF%90%E8%A1%8CFC%E7%BA%A2%E7%99%BD%E6%9C%BA%E6%B8%B8%E6%88%8F/</url>
@@ -32,19 +19,6 @@
             <tag> 游戏分享 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2024/12/26/hello-world/"/>
-      <url>/2024/12/26/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
