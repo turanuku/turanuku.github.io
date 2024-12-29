@@ -21,13 +21,15 @@
       <link href="/2024/12/26/FCEUX%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%AE%89%E8%A3%85%E8%BF%90%E8%A1%8CFC%E7%BA%A2%E7%99%BD%E6%9C%BA%E6%B8%B8%E6%88%8F/"/>
       <url>/2024/12/26/FCEUX%E6%A8%A1%E6%8B%9F%E5%99%A8%E5%AE%89%E8%A3%85%E8%BF%90%E8%A1%8CFC%E7%BA%A2%E7%99%BD%E6%9C%BA%E6%B8%B8%E6%88%8F/</url>
       
-        <content type="html"><![CDATA[<h2 id="1-安装FCEUX模拟器（原版以及汉化）"><a href="#1-安装FCEUX模拟器（原版以及汉化）" class="headerlink" title="1. 安装FCEUX模拟器（原版以及汉化）"></a>1. 安装FCEUX模拟器（原版以及汉化）</h2><p><a href="http://fceux.com/web/home.html">FCEUX模拟器官网</a></p><p><a href="http://fceux.com/web/home.html">2.6.2中文汉化版下载地址</a></p><h2 id="2-中文游戏300合集下载"><a href="#2-中文游戏300合集下载" class="headerlink" title="2. 中文游戏300合集下载"></a>2. 中文游戏300合集下载</h2><p>中古游戏厅：<a href="https://www.retrowan.com/chinese-game-300/">中文游戏300合集下载地址</a></p><h2 id="3-模拟器调试与手柄映射"><a href="#3-模拟器调试与手柄映射" class="headerlink" title="3. 模拟器调试与手柄映射"></a>3. 模拟器调试与手柄映射</h2><h2 id="4-运行效果"><a href="#4-运行效果" class="headerlink" title="4. 运行效果"></a>4. 运行效果</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="1-安装FCEUX模拟器（原版以及汉化）"><a href="#1-安装FCEUX模拟器（原版以及汉化）" class="headerlink" title="1. 安装FCEUX模拟器（原版以及汉化）"></a>1. 安装FCEUX模拟器（原版以及汉化）</h2><p>官网：<a href="http://fceux.com/web/home.html">FCEUX模拟器官网</a></p><p>吾爱破解汉化版蓝奏云：<a href="https://xianuani.lanzoul.com/i4FSm01b8bvi">2.6.2中文汉化版下载</a> 备用地址(防止被吞): <a href="https://wwui.lanzouu.com/idwg52j69jyf">备用</a></p><h2 id="2-中文游戏300合集下载"><a href="#2-中文游戏300合集下载" class="headerlink" title="2. 中文游戏300合集下载"></a>2. 中文游戏300合集下载</h2><p>中古游戏厅：<a href="https://www.retrowan.com/chinese-game-300/">中文游戏300合集下载地址</a> 下载完成后解压</p><h2 id="3-添加手柄映射及模拟器基本操作"><a href="#3-添加手柄映射及模拟器基本操作" class="headerlink" title="3. 添加手柄映射及模拟器基本操作"></a>3. 添加手柄映射及模拟器基本操作</h2><p>以汉化版为例 解压找到win64文件夹下的fceux64.exe后双击运行</p><p><img src="/./assets/%E5%8A%A8%E7%94%BB.gif" alt="动画"></p><p>模拟器主界面展示</p><p><img src="/./assets/image-20241227180945114.png" alt="image-20241227180945114"></p><h3 id="3-1添加手柄映射（以XBOX手柄为例）"><a href="#3-1添加手柄映射（以XBOX手柄为例）" class="headerlink" title="3.1添加手柄映射（以XBOX手柄为例）"></a>3.1添加手柄映射（以XBOX手柄为例）</h3><p>进入主界面 选择<strong>配置</strong>选项卡，点击<strong>输入</strong>选项，在输入配置窗口左上角<strong>端口1:<strong>下拉菜单中选择</strong>SNES手柄</strong>选项,继续点击<strong>配置</strong>选项，将XBOX手柄与PC进行连接，在弹出的<strong>SNES手柄</strong>窗口中点击虚拟按键，随后<strong>双击手柄的指定按键</strong>即可完成按键映射。所有操作完成后，关闭手柄配置窗口和输入配置窗口。</p><p>双、多手柄以及键盘映射可参考上述操作</p><p><img src="/./assets/%E5%8A%A8%E7%94%BB-1735294535281-11.gif" alt="动画"></p><h3 id="3-2模拟器基本操作"><a href="#3-2模拟器基本操作" class="headerlink" title="3.2模拟器基本操作"></a>3.2模拟器基本操作</h3><h4 id="加载游戏"><a href="#加载游戏" class="headerlink" title="加载游戏"></a>加载游戏</h4><p>点击<strong>文件</strong>选项卡之后点击<strong>打开</strong>选项，选择已解压好的游戏合计文件夹并选中自己想要游玩的游戏（游戏目录可在中古游戏厅300游戏合集下载网址中查看）</p><p><img src="/./assets/%E5%8A%A8%E7%94%BB-1735293088164-4.gif" alt="动画"></p><h4 id="关闭游戏或选择最近游玩游戏"><a href="#关闭游戏或选择最近游玩游戏" class="headerlink" title="关闭游戏或选择最近游玩游戏"></a>关闭游戏或选择最近游玩游戏</h4><p><img src="/./assets/%E5%8A%A8%E7%94%BB-1735293394166-9.gif" alt="动画"></p><p>其他设置可自由探索比如帧率显示、手柄显示、后台运行暂停等等</p><h2 id="4-运行效果"><a href="#4-运行效果" class="headerlink" title="4. 运行效果"></a>4. 运行效果</h2><p>我嘞个赤色要塞呀 最多打到第3还是第4关来着</p><p><img src="/./assets/%E5%8A%A8%E7%94%BB-1735294957512-13.gif" alt="动画"></p><p>以上嘻嘻！</p>]]></content>
       
       
       
         <tags>
             
-            <tag> 软件分享 游戏分享 </tag>
+            <tag> 软件分享 </tag>
+            
+            <tag> 游戏分享 </tag>
             
         </tags>
       
